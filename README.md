@@ -1,2 +1,1 @@
-# the_pantry
-# Hello World
+GitHub Checkpoint Assignment
